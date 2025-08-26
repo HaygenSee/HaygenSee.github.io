@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Blender Works
+description: Here are some 3D models I've been working on in Blender.
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

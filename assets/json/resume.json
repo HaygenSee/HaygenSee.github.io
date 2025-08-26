@@ -28,27 +28,21 @@
       "startDate": "2021-09-16",
       "endDate": "2024-07-16",
       "score": "2:1"
+    },
+    {
+      "institution": "Newcastle University",
+      "location": "Newcastle, UK",
+      "area": "Computer Game Engineering",
+      "studyType": "MSc",
+      "startDate": "2024-09-16",
+      "endDate": "2025-08-05",
+      "score": "2:1"
     }
   ],
  
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "languages": [
     {
-      "language": "Chinese- Cantonese",
+      "language": "Chinese - Cantonese",
       "fluency": "Native speaker",
       "icon": ""
     },
