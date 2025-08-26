@@ -14,7 +14,7 @@ You can also find the dissertation itself <a href='https://github.com/HaygenSee/
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/menusc.png" title="Rithm Game main menu screenshot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/menusc.jpg" title="Rithm Game main menu screenshot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
