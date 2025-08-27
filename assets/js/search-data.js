@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Collection of my work",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -29,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -58,11 +51,6 @@ ninja.data = [{
           description: "MSc Dissertation Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-blender-works",
-          title: 'Blender Works',
-          description: "Here are some 3D models I&#39;ve been working on in Blender.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
