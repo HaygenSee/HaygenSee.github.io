@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Email: <a href='#'>haygen.sze@gmail.com</a>"
+subtitle: "Email: <a href='#'>haygen.sze@gmail.com</a><br>LinkedIn: <a href='https://www.linkedin.com/in/hei-chun-sze/'>https://www.linkedin.com/in/hei-chun-sze/</a>"
 
 profile:
   align: right
@@ -24,10 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Hei Chun Sze, but feel free to just call me Haygen. I'm a programmer who's passionate on game development because of my addiction on rhythm games, leading me to create a rhythm game for my [dissertation project](https://github.com/HaygenSee/Rhythm-Trainer). I have also built an interest in 3D modeling in Blender, looking to make models of my favourite characters and make silly animations with them.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/projects/) automatically.
+I attended Newcastle University, where I studied BSc Computer Science, and during 2nd year saw the opportunity to switch to Computer Game Engineering and took it. This introduced me to Unity and encouraged me to continue use it for my disseration, where I graduated with Second-First Class Honours. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+After completing my undergraduate degree, I decided to go deeper into the rabbit hole of game engineering and continued in the same university to study Masters on Computer Game Engineering. This year of study helped me understand the integration of graphics and physics into a game engine using C++, allowing me to understand what I might be stepping into when I work in the games industry. After completing all the modules, for my [final disseration](https://github.com/HaygenSee/Rhythm-Trainer) I decided to continue to use Unity to create an educational rhythm game, which was also mentioned above. (Currently awaiting final grade decision - 27/8/2025)
 
-Hello! I'm Hei Chun Sze, but feel free to just call me Haygen. I'm a programmer who's passionate on game development because of my addiction on rhythm games, leading me to create a rhythm game for my [dissertation project](https://github.com/HaygenSee/Rhythm-Trainer). I have also built an interest in 3D modeling in Blender.
+Outside of programming and games, I also am a passionate volleyball player, which I have been practicing for over 8 years. I helped lead a group of friends to train and participate multiple tournaments around the UK, while also working constantly to refine my own hitting form and defence. 
+
+Feel free to contact me through email or message me through my [LinkedIn](https://www.linkedin.com/in/hei-chun-sze/). You can also check out my CV above or click [here](_pages/cv.md).
