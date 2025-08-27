@@ -50,7 +50,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: false
 socials_in_search: false
-posts_in_search: true
+posts_in_search: false
 bib_search: false
 
 # Dimensions
@@ -193,6 +193,11 @@ exclude:
   - vendor
   - _pages/publications.md
   - _pages/blog.md
+  - _pages/teaching.md
+  - _pages/2_project.md
+  - _projects/3_project.md
+  - _pages/dropdown.md
+
 keep_files:
   - CNAME
   - .nojekyll
