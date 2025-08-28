@@ -32,4 +32,4 @@ After completing my undergraduate degree, I decided to go deeper into the rabbit
 
 Outside of programming and games, I also am a passionate volleyball player, which I have been practicing for over 8 years. I helped lead a group of friends to train and participate multiple tournaments around the UK, while also working constantly to refine my own hitting form and defence. 
 
-Feel free to contact me through email or message me through my [LinkedIn](https://www.linkedin.com/in/hei-chun-sze/). You can also check out my CV above or click [here](_pages/cv.md).
+Feel free to contact me through email or message me through my [LinkedIn](https://www.linkedin.com/in/hei-chun-sze/). You can also check out my CV above or click [here](https://haygensee.github.io/cv/).
