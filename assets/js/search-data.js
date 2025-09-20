@@ -44,6 +44,11 @@ ninja.data = [{
           description: "MSc Dissertation Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-blender-works",
+          title: 'Blender Works',
+          description: "Here are some 3D models I&#39;ve been working on in Blender.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
