@@ -34,4 +34,4 @@ Outside of programming and games, I also am a passionate volleyball player, whic
 
 Feel free to contact me through email or message me through my [LinkedIn](https://www.linkedin.com/in/hei-chun-sze/). You can also check out my CV above or click [here](/cv/).
 
-Last updated: 21/9/25
+Last updated: 27/09/25
