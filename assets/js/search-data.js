@@ -49,8 +49,8 @@ ninja.data = [{
           description: "Here are some 3D models I&#39;ve been working on in Blender.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-c-graphics-render-with-opengl",
-          title: 'C++ Graphics Render with OpenGL',
+            },},{id: "projects-c-graphics-render-with-opengl-based-api",
+          title: 'C++ Graphics Render with OpenGL-based API',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
