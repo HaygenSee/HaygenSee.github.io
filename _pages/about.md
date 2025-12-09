@@ -28,10 +28,9 @@ Hello! I'm Hei Chun Sze, but feel free to just call me Haygen. I'm a programmer 
 
 I attended Newcastle University, where I studied BSc Computer Science, and during 2nd year saw the opportunity to switch to Computer Game Engineering and took it. This introduced me to Unity and encouraged me to continue use it for my disseration, where I graduated with Second-First Class Honours. 
 
-After completing my undergraduate degree, I decided to go deeper into the rabbit hole of game engineering and continued in the same university to study Masters on Computer Game Engineering. This year of study helped me understand the integration of graphics and physics into a game engine using C++, allowing me to understand what I might be stepping into when I work in the games industry. After completing all the modules, for my [final disseration](https://github.com/HaygenSee/Rhythm-Trainer) I decided to continue to use Unity to create an educational rhythm game, which was also mentioned above. (Currently awaiting final grade decision - 27/8/2025)
-
+After completing my undergraduate degree, I decided to go deeper into the rabbit hole of game engineering and continued in the same university to study Masters on Computer Game Engineering. This year of study helped me understand the integration of graphics and physics into a game engine using C++, allowing me to understand what I might be stepping into when I work in the games industry. After completing all the modules, for my [final disseration](https://github.com/HaygenSee/Rhythm-Trainer) I decided to continue to use Unity to create an educational rhythm game, which was also mentioned above. This resulted with a final score of 73%, leading to an overall result of 71.3% (MSc with Distinction). 
 Outside of programming and games, I also am a passionate volleyball player, which I have been practicing for over 8 years. I helped lead a group of friends to train and participate multiple tournaments around the UK, while also working constantly to refine my own hitting form and defence. 
 
 Feel free to contact me through email or message me through my [LinkedIn](https://www.linkedin.com/in/hei-chun-sze/). You can also check out my CV above or click [here](/cv/).
 
-Last updated: 27/09/25
+Last updated: 12/08/25
