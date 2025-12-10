@@ -7,13 +7,14 @@ importance: 3
 category: work
 ---
 
-A graphic render I made in C++ with the university's OpenGL-based API during my Masters studies for a module. 
+A graphic render I made in C++ with the university's OpenGL-based API during my Masters studies for a module, involving many advanced programming techniques for rendering (Looking to figure out proper animations). 
 
 <div class="row justify-content-center">
     <div class="col-12 col-md-10 col-lg-8 mt-3">
         {% include video.liquid 
             path="https://www.youtube.com/embed/TpFo-jXn6jM" 
             class="w-100 rounded z-depth-1"
+            style="height:500px;"
         %}
     </div>
 </div>
