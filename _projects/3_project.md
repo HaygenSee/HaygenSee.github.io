@@ -13,8 +13,7 @@ A graphic render I made in C++ with the university's OpenGL-based API during my 
     <div class="col-12 col-md-10 col-lg-8 mt-3">
         {% include video.liquid 
             path="https://www.youtube.com/embed/TpFo-jXn6jM" 
-            class="w-100 rounded z-depth-1"
-            style="height:500px;"
+            class="video-tall w-100 rounded z-depth-1"
         %}
     </div>
 </div>

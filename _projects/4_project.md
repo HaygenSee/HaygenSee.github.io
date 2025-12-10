@@ -17,6 +17,7 @@ Below is the demonstration video of the full game I built in Unity for a module 
             class="w-100 rounded z-depth-1" 
             style="height:500px;"
             autoplay=true
+            controls=true
         %}
     </div>
-</div>
+</div>  
