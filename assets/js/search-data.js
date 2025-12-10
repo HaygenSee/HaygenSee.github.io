@@ -54,6 +54,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-grapple-gun-man",
+          title: 'Grapple Gun Man',
+          description: "Game I made during my undergraduate studies",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
