@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Email: <a href='#'>haygen.sze@gmail.com</a><br>LinkedIn: <a href='https://www.linkedin.com/in/hei-chun-sze/'>https://www.linkedin.com/in/hei-chun-sze/</a>"
+subtitle: "Email: <a href='#'>haygen.sze@gmail.com</a><br>LinkedIn: <a href='https://www.linkedin.com/in/hei-chun-sze/'>https://www.linkedin.com/in/hei-chun-sze/</a><br>github: <a href='https://github.com/HaygenSee'>https://github.com/HaygenSee</a>"
 
 profile:
   align: right
